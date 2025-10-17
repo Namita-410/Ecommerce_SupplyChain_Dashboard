@@ -41,3 +41,16 @@ The project focuses on Excel-based data analysis, visualization, and dashboard c
 - Comparative Analysis of Views vs. Sales
 - Advanced Conditional Profit Margins
 - Predictive Sales & Inventory Optimization
+
+
+## Excel Files (Large File)
+
+Due to file size, the Excel workbooks are hosted on Google Drive:
+
+- [Part 1: Data Analysis](https://docs.google.com/spreadsheets/d/1M-3Y94EhxbmDolYhpTkAgU1bZbeeZEtU/edit?usp=sharing&ouid=109429115724481347329&rtpof=true&sd=true)
+- [Part 2: Interactive Dashboard](https://docs.google.com/spreadsheets/d/1v74wegH7pir_aetKh50vyRwSibOdFDxD/edit?usp=sharing&ouid=109429115724481347329&rtpof=true&sd=true)
+
+
+
+
+
